@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="Sexo">Gender</string>
+    <string name="adidas">Adidas</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">Enter quantity</string>
+    <string name="clasico">Classic</string>
+    <string name="detalle">Purchase detail</string>
+    <string name="error_cant">for please, Enter quantity</string>
+    <string name="error_cant_cero">Error, quantity must be greater than zero</string>
+    <string name="hombre">Male</string>
+    <string name="mujer">Female</string>
+    <string name="nike">Nike</string>
+    <string name="precio_total">Total price:</string>
+    <string name="precio_unit">Unit price:</string>
+    <string name="puma">Puma</string>
+    <string name="tipo_marca">Brand</string>
+    <string name="tipo_zapato">Shoe type</string>
+    <string name="titulo">Business ZXY</string>
+    <string name="zapatilla">Shoe</string>
+</resources>

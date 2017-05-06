@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">Taller1</string>
+    <string name="titulo">Empresa ZXY</string>
+    <string name="Sexo">Genero</string>
+    <string name="tipo_zapato">Tipo Zapato</string>
+    <string name="tipo_marca">Marca</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="cantidad">Digite cantidad</string>
+    <string name="detalle">Detalle Compra</string>
+    <string name="precio_unit">Precio Unitario:</string>
+    <string name="precio_total">Precio Total:</string>
+
+
+    <string name="hombre">Masculino</string>
+    <string name="mujer">Femenino</string>
+    <string-array name="opc_sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string-array name="opc_tipo">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string-array name="opc_marca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+
+    <string name="error_cant">Digite cantidad</string>
+    <string name="error_cant_cero">Error, la cantidad debe ser mayor a cero</string>
+
 </resources>
